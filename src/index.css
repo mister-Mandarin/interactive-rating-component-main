@@ -3,19 +3,35 @@
     --white: hsl(0deg 0% 100%);
     --light-grey: hsl(217deg 12% 63%);
     --medium-grey: hsl(216deg 12% 54%);
-    --darkblue: hsl(213deg 19% 18%);
-    --wery-dark-blue: hsl(216deg 12% 8%);
+    --backgroung-grey: hsl(210deg 26% 18%);
+    --darkblue: hsl(215deg 22% 15%);
+    --very-dark-blue: hsl(216deg 12% 8%);
 
     text-size-adjust: 100%;
     text-rendering: optimizelegibility;
-
+ 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 
     font-synthesis: none;
 }
 
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+}
+
 body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    height: 100vh;
+
+    font-family: Overpass, sans-serif;
     font-size: 15px;
     font-weight: 400;
+    color: var(--white);
+
+    background-color: var(--very-dark-blue);
 } 

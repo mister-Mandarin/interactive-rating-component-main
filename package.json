@@ -28,6 +28,7 @@
     "stylelint": "^15.9.0",
     "stylelint-config-clean-order": "^5.0.1",
     "stylelint-config-standard": "^33.0.0",
-    "stylelint-config-styled-components": "^0.1.1"
+    "stylelint-config-styled-components": "^0.1.1",
+    "classnames": "^2.3.2"
   }
 }

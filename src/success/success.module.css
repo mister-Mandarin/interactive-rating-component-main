@@ -1,0 +1,23 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: center;
+
+    text-align: center;
+}
+
+.subTitle {
+    padding: 10px;
+
+    color: var(--orange);
+
+    opacity: 0.8;
+    background-color: var(--backgroung-grey);
+    border-radius: 30px;
+}
+
+.successIcon {
+    align-items: center;
+    width: 162px;
+}
