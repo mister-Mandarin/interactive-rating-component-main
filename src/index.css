@@ -16,6 +16,10 @@
     font-synthesis: none;
 }
 
+html {
+    height: -webkit-fill-available;
+}
+
 body {
     display: flex;
     align-items: center;
