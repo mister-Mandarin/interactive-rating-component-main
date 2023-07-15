@@ -1,11 +1,11 @@
 {
   "name": "interactive-rating-component",
-  "homepage": "https://mister-mandarin.github.io/interactive-rating-component",
+  "homepage": "https://mister-mandarin.github.io/interactive-rating-component-main",
   "private": true,
   "version": "1.0",
   "type": "module",
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite --host",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",

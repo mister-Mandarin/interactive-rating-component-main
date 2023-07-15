@@ -32,7 +32,7 @@ Optional:
 
 ### Links
 
-- Live Site URL: [Live site URL here](https://mister-mandarin.github.io/interactive-rating-component)
+- Live Site URL: [Live site URL here](https://mister-mandarin.github.io/interactive-rating-component-main)
 
 ### Author
 
