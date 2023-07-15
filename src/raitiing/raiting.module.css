@@ -6,7 +6,9 @@
 
 .round {
     width: 45px;
+    height: 45px;
     padding: 15px;
+
     background-color: var(--backgroung-grey);
     border-radius: 50%;
 }
